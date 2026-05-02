@@ -18,3 +18,5 @@ author_profile: true
 * Undergraduate researcher at Uludağ University.
 * Experience across wet-lab and computational bioinformatics work.
 * Interested in single-cell transcriptomics, reproducible pipelines, and biotech robotics.
+
+For regular news updates, follow me on <a href="https://www.linkedin.com/in/kurayi-chawatama">LinkedIn</a>.
