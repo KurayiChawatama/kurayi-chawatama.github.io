@@ -1,152 +1,165 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Kurayi Chawatama",
+    "label": "Molecular Biology and Genetics Undergraduate Student",
+    "email": "kurichawaz@gmail.com",
+    "phone": "+90 505 650 69 12",
+    "website": "https://kurayichawatama.github.io/",
+    "summary": "Proudly Zimbabwean Molecular Biology and Genetics undergraduate at Uludağ University focused on cancer genomics, transcriptomics, and bioinformatics.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Bursa",
+      "countryCode": "TR",
+      "region": "Türkiye"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "GitHub",
+        "username": "KurayiChawatama",
+        "url": "https://github.com/KurayiChawatama"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kurayi-chawatama",
+        "url": "https://www.linkedin.com/in/kurayi-chawatama/"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0005-2642-5407",
+        "url": "https://orcid.org/0009-0005-2642-5407"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "ResearchGate",
+        "username": "Kurayi-Chawatama",
+        "url": "https://www.researchgate.net/profile/Kurayi-Chawatama"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Uludağ University",
+      "position": "Undergraduate Researcher",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "Characterizing tumor microenvironment transcriptome variations in NASH and viral hepatocellular carcinomas for targeted therapy.",
+      "highlights": [
+        "Proposed and secured a grant for cross-species scRNA-seq integration and differential analysis.",
+        "Validated findings in vitro using an FFA-induced HCC model.",
+        "Preliminary poster received the honor prize at a bioinformatics symposium."
+      ]
+    },
+    {
+      "company": "Middle East Technical University",
+      "position": "Bioinformatics Intern",
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "summary": "Worked with Nextflow pipelines for large-scale cancer genomics and multi-omics analysis.",
+      "highlights": [
+        "Supported WES/WGS somatic variant calling and mutational signature analysis.",
+        "Processed ChIP-seq, Methyl-seq, and Bulk RNA-seq data at scale."
+      ]
+    },
+    {
+      "company": "Karolinska Institutet",
+      "position": "Undergraduate Researcher",
+      "startDate": "2025-07-01",
+      "endDate": "2025-10-01",
+      "summary": "Developed and validated a regression-based method for cancer cell plasticity scoring using CITE-seq data.",
+      "highlights": [
+        "Decoded gene signatures associated with cancer cell plasticity in hepatocellular carcinoma.",
+        "Validated the signature in TCGA-LIHC with Cox regression analysis."
+      ]
+    },
+    {
+      "company": "Izmir Institute of Technology",
+      "position": "Research Intern",
+      "startDate": "2024-07-01",
+      "endDate": "2024-09-01",
+      "summary": "Performed bioinformatics analyses in tumor immunology using bulk/single-cell RNA-seq, TCR-seq, and microarray data.",
+      "highlights": [
+        "Investigated immune-related lncRNAs.",
+        "Assisted with lentiviral transduction, cell culture passaging, mouse xenograft modeling, and flow cytometry."
+      ]
+    },
+    {
+      "company": "Uludağ University",
+      "position": "Undergraduate Researcher & Intern",
+      "startDate": "2023-05-01",
+      "endDate": "2024-07-01",
+      "summary": "Worked on the comprehensive analysis of GPRC5A promoter methylation across cancer types.",
+      "highlights": [
+        "Presented a methyl-seq pilot study poster at a bioinformatics symposium.",
+        "Performed DNA isolation, PCR, and agarose gel electrophoresis."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Uludağ University",
+      "area": "Molecular Biology and Genetics, B.Sc.",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "2023-10-01",
+      "endDate": "2027-07-01",
+      "gpa": "3.1/4",
+      "courses": [
+        "Fully Funded Turkish Government Scholarship"
+      ]
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Experimental",
+      "keywords": [
+        "DNA isolation from blood",
+        "Restriction digestion",
+        "PCR",
+        "Agarose gel electrophoresis",
+        "Bacterial culture",
+        "Plasmid cloning",
+        "Cell culture",
+        "Flow cytometry"
+      ]
+    },
+    {
+      "name": "Computational",
+      "keywords": [
+        "R",
+        "Python",
+        "Nextflow",
+        "Bash",
+        "Git",
+        "Docker",
+        "Singularity",
+        "Slurm",
+        "scRNA-seq",
+        "CITE-seq",
+        "TCR-seq",
+        "WES/WGS",
+        "ChIP-seq",
+        "Methyl-seq",
+        "Bulk RNA-seq",
+        "Basic machine learning"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research interests",
+      "keywords": [
+        "Cancer genomics",
+        "Single-cell transcriptomics",
+        "Immunoinformatics",
+        "Open-source bioinformatics",
+        "Scientific outreach and translation",
+        "Biotech robotics"
+      ]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
