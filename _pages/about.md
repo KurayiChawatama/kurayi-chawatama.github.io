@@ -13,5 +13,17 @@ My recent projects include transcriptomic profiling of hepatocellular carcinoma 
 
 Outside the lab, I am interested in scientific outreach, translating bioinformatics resources, and building practical workflows for real-world research.
 
-For a structured version of my background, see the [CV page](/cv/) or download the [PDF CV](/files/cv.pdf).
+Grants & Scholarships
+======
 
+* Scholarships
+  * Awarded the [Türkiye Scholarship](https://www.turkiyeburslari.gov.tr/) for fully funded undergraduate studies.
+  * Received [Erasmus+ Traineeship](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students) funding for a 3-month research position at Karolinska Institutet.
+  * Accepted to [EU-funded SUSA Internship](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/11143) developing Nextflow pipelines for cancer genomics tools at Middle East Technical University.
+
+* Grants
+  * Recipient of the [TÜBİTAK 2209-A](https://tubitak.gov.tr/en/scholarships/lisans-onlisans/destek-programlari/2209-research-project-support-programme-undergraduate-students) Undergraduate Research Grant.
+
+* Awards
+  * Best Presentation & Pitch, 2025 [Teknofest Biotechnology Startup Idea Competition](https://www.teknofest.org/en/yarismalar/biotechnology-innovation-competition/), Placed 5th/1400.
+  * Poster presentation honor prize at The [18th International Symposium on Health Informatics and Bioinformatics](https://hibit2025.medipol.edu.tr/).
