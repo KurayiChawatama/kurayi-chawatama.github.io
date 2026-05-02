@@ -13,9 +13,9 @@ title                    : "Molecular Biology and Genetics Undergraduate Student
 title_separator          : "-"
 name                     : &name "Kurayi Chawatama"
 description              : &description "Kurayi Chawatama's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://kurayi-chawatama.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://kurayichawatama.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/kurayi-chawatama.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "KurayiChawatama/kurayi-chawatama.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
