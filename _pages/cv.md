@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+You may also download the [PDF CV](/files/cv.pdf).
+
 Education
 ======
 * Molecular Biology and Genetics, B.Sc. | Uludağ University, Bursa, Türkiye | Oct 2023-July 2027 |
   * GPA: 3.1/4 [Fully Funded Turkish Government Scholarship](https://www.turkiyeburslari.gov.tr/)
 
-Research experience
+Research Experience
 ======
 * Oct 2024-Present: Undergraduate Researcher
   * Prof. Berrin Tunca, Uludağ University
@@ -72,5 +74,5 @@ References
   * Email: vicent.pelechano@scilifelab.se
 * Asst. Prof. Atakan Ekiz, Izmir Institute Of Technology
   * Email: atakanekiz@iyte.edu.tr
-* Dr. Matthias Zepper, Swedish National Genomics Infrastructure, Science For Life Laboratory
+* Dr. Matthias Zepper, (Sweden) National Genomics Infrastructure
   * Email: matthias.zepper@scilifelab.se
