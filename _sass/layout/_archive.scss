@@ -105,6 +105,42 @@
   .page__meta {
     margin: 0 0 4px;
   }
+
+  .archive__item {
+    @include breakpoint($small) {
+      display: flex;
+      gap: 1.5em;
+    }
+  }
+
+  .archive__item-teaser--list {
+    @include breakpoint($small) {
+      flex-shrink: 0;
+      width: 150px;
+      height: 150px;
+      margin-bottom: 0;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    border-radius: $border-radius;
+    overflow: hidden;
+    margin-bottom: 1em;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .archive__item-body {
+    @include breakpoint($small) {
+      flex: 1;
+    }
+  }
 }
 
 
@@ -119,6 +155,14 @@
     margin: 0 0 4px;
   }
 
+  .archive__item {
+    display: block;
+  }
+
+  .archive__item-teaser--grid {
+    margin-bottom: 1em;
+  }
+
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
@@ -130,7 +174,8 @@
 
   @include breakpoint($small) {
     @include gallery(5 of 10);
-    .archive__item-teaser {
+    .archive__item-teaser,
+    .archive__item-teaser--grid {
       max-height: 200px;
     }
   }
@@ -140,7 +185,8 @@
     margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
 
-    .archive__item-teaser {
+    .archive__item-teaser,
+    .archive__item-teaser--grid {
       max-height: 120px;
     }
 
