@@ -11,6 +11,15 @@ redirect_from:
 
 You may also download the [PDF CV](/files/cv.pdf).
 
+Skills
+======
+* **Experimental:** DNA Isolation from Blood, Restriction Digestion, PCR, Agarose Gel Electrophoresis, Bacterial Culture & Cloning
+* **Computational:** 
+  * **Programming Languages:** R, Python, Nextflow, Bash, Arduino
+  * **NGS Data Analysis:** Bulk & Single Cell RNA-seq, TCR-seq, CITE-seq, Microarray, WES/WGS Processing & Variant Analysis, ChIP-seq, Methyl-seq
+  * **Frameworks & Environments:** Slurm (Linux HPC), Conda, Docker/Singularity, Nextflow, Git, Arduino, Raspberry Pi
+  * **Machine Learning:** Basic Scikit-learn and TensorFlow
+
 Education
 ======
 * Oct 2023-July 2027: **Molecular Biology and Genetics, B.Sc.** [Fully Funded Turkish Government Scholarship](https://www.turkiyeburslari.gov.tr/)
