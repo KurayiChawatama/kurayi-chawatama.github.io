@@ -13,7 +13,7 @@ You may also download the [PDF CV](/files/cv.pdf).
 
 Education
 ======
-* Molecular Biology and Genetics, B.Sc. | Uludağ University, Bursa, Türkiye | Oct 2023-July 2027
+* Molecular Biology and Genetics, B.Sc. — Uludağ University, Bursa, Türkiye — Oct 2023-July 2027
   * GPA: 3.1/4 [Fully Funded Turkish Government Scholarship](https://www.turkiyeburslari.gov.tr/)
 
 Research Experience
