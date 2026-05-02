@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Kurayi Chawatama"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<h1 align="center">Hi 👋, I'm Kurayi Chawatama</h1>
 
 I am a Zimbabwean Molecular Biology and Genetics undergraduate at Uludağ University in Bursa, Türkiye, with a focus on cancer genomics, transcriptomics, and bioinformatics. My work spans single-cell and bulk sequencing analysis, Nextflow workflows, and collaborative research in oncology, immunology, and computational biology.
 
