@@ -14,7 +14,6 @@ Education
 * B.Sc. in Molecular Biology and Genetics, Uludağ University, Bursa, Türkiye, 2023–2027 (expected)
   * GPA: 3.1/4
   * Fully Funded Turkish Government Scholarship
-  * Proudly Zimbabwean, studying in Türkiye
 
 Research experience
 ======
@@ -48,7 +47,6 @@ Skills
 ======
 * Experimental: DNA isolation from blood, restriction digestion, PCR, agarose gel electrophoresis, bacterial culture, plasmid cloning, cell culture, flow cytometry
 * Computational: R, Python, Nextflow, Bash, Git, Docker, Singularity, Slurm, scRNA-seq, CITE-seq, TCR-seq, WES/WGS, ChIP-seq, Methyl-seq, Bulk RNA-seq, basic machine learning
-* Interests: single-cell transcriptomics, cancer genomics, reproducible workflows, and biotech robotics
 
 Publications
 ======

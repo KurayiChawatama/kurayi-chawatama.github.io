@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a proud Zimbabwean Molecular Biology and Genetics undergraduate at Uludağ University in Bursa, Türkiye, with a focus on cancer genomics, transcriptomics, and bioinformatics. My work spans single-cell and bulk sequencing analysis, Nextflow workflows, and collaborative research in oncology, immunology, and computational biology.
+I am a Zimbabwean Molecular Biology and Genetics undergraduate at Uludağ University in Bursa, Türkiye, with a focus on cancer genomics, transcriptomics, and bioinformatics. My work spans single-cell and bulk sequencing analysis, Nextflow workflows, and collaborative research in oncology, immunology, and computational biology.
 
 My recent projects include transcriptomic profiling of hepatocellular carcinoma and NASH, cancer cell plasticity analysis with CITE-seq and TCGA data, and tumor immunology analyses using bulk and single-cell RNA-seq, TCR-seq, and microarray data. I also contribute to open bioinformatics communities such as nf-core, yEFIS, and ISCB-RSG Türkiye.
-
-I am especially interested in single-cell transcriptomics, reproducible bioinformatics pipelines, and the interface between wet-lab research and computational analysis. I also enjoy robotics and biotech projects inspired by my work with UluRover.
 
 Outside the lab, I am interested in scientific outreach, translating bioinformatics resources, and building practical workflows for real-world research.
 
